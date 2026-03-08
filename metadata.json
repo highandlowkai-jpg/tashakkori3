@@ -1,0 +1,5 @@
+{
+  "name": "Tashakkori Portfilio Opimisation",
+  "description": "An advanced financial analysis tool that uses Modern Portfolio Theory to optimize asset allocation, calculate risk metrics like Sharpe and Sortino ratios, and perform Monte Carlo simulations.",
+  "requestFramePermissions": []
+}
